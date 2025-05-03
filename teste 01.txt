@@ -4,6 +4,8 @@ linha c
 linha d
 linha f
 linha g
+linha h
 linha i
 linha L
+linha 0
 linha 1
