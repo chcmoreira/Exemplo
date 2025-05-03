@@ -13,6 +13,6 @@ linha g
 linha 9
 linha h
 linha tatu
-linha rr
+linha rrato
 linha L
 linha 0
