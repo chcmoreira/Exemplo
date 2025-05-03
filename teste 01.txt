@@ -1,10 +1,14 @@
 linha b
 linha 7
+linha 0
+linha c
 linha d
 linha f
+linha 1
+linha g
 linha 9
 linha h
+linha r
 linha rr
 linha L
 linha 0
-linha 1
