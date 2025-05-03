@@ -1,5 +1,4 @@
 linha 01
-intervalo
 linha 02
 linha 03
 linha 04
