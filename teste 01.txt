@@ -12,6 +12,6 @@ linha g
 linha 9
 linha h
 linha r
-linha rr
+linha rrato
 linha L
 linha 0
