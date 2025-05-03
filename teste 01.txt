@@ -12,7 +12,7 @@ linha alterada exemplo
 linha g
 linha 9
 linha h
-linha r
+linha t
 linha rr
 linha L
 linha 0
