@@ -1,9 +1,9 @@
 linha b
-linha 7
-linha 0
+linha 0001
 linha c000
 linha alterada exemplo
 linha alterada entre em exem
+
 linha d
 linha faca
 linha 1
@@ -12,7 +12,7 @@ linha alterada exemplo
 linha g
 
 linha h
-linha tamandua
+linha tatu
 linha rrato
 linha L
 linha 0
