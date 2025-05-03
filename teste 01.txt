@@ -1,18 +1,22 @@
 linha b
 linha 0001
-linha c
+linha c000
 linha alterada exemplo
 linha alterada entre em exem
 
 linha d
-linha f
+linha faca
 linha 1
 alterada Exem
 linha alterada exemplo
 linha g
-linha 9
+
 linha h
 linha tatu
+<<<<<<< HEAD
 linha rratazana
+=======
+linha rratos
+>>>>>>> 605d8940af438fbe08deb0dfc7043ed848c30a39
 linha L
 linha 0
