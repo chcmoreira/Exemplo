@@ -2,6 +2,7 @@ linha b
 linha 7
 linha 0
 linha c
+linha alterada exemplo
 linha alterada entre em exem
 linha d
 linha f
