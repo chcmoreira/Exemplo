@@ -3,6 +3,7 @@ linha 7
 linha 0
 linha c
 linha alterada exemplo
+linha alterada entre em exem
 linha d
 linha f
 linha 1
@@ -11,7 +12,7 @@ linha alterada exemplo
 linha g
 linha 9
 linha h
-linha r
+linha t
 linha rrato
 linha L
 linha 0
